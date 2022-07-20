@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658355808 source:c:\users\es-fe\desktop\working_dir\feryal\c_basics_2\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+
